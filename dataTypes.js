@@ -7,7 +7,7 @@ let str = "hello"
 console.log(typeof str, str);
 
 let num = 12345;
-console.log(typeof num, num);
+console.log(typeof num, num);   
 
 let bool = false;
 console.log(typeof bool, bool);
